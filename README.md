@@ -7,7 +7,7 @@ April 20, 2022
 Udacity Final Project
 
 ### Description
-Describe what your project is about and what it does
+Learning how to publish content to Github
 
 ### Files used
 Include the files used
