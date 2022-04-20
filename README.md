@@ -10,8 +10,12 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+.DS_Store
+.vscode
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+A vareity of blogposts were useful sources of information throughout this, but nothing tangibly critical.
 
