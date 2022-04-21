@@ -13,5 +13,5 @@ Learning how to publish content to Github
 Include the files used
 
 ### Credits
-Throughout this project, the use of Stack Overflow was used to help clarify various questions.
+Throughout this project, the use of Stack OverFlow was used to help clarify various questions.
 
