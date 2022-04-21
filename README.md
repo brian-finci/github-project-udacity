@@ -4,10 +4,10 @@
 April 20, 2022
 
 ### Project Title
-Replace the Project Title
+Project 3 - Posting work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This project is designed to help walk through the beginner steps of using Git and GitHub.
 
 ### Files used
 .DS_Store
