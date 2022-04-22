@@ -14,7 +14,7 @@ This project is designed to help walk through the beginner steps of using Git an
 .vscode
 washington.csv
 new_york_city.csv
-chicago.csv
+chicago.csv 
 
 ### Credits
 A vareity of blogposts were useful sources of information throughout this, but nothing tangibly critical.
