@@ -4,14 +4,18 @@
 April 20, 2022
 
 ### Project Title
-Udacity Final Project
+Project 3 - Posting work on GitHub
 
 ### Description
-Learning how to publish content to Github
+This project is designed to help walk through the beginner steps of using Git and GitHub.
 
 ### Files used
-Include the files used
+.DS_Store
+.vscode
+washington.csv
+new_york_city.csv
+chicago.csv 
 
 ### Credits
-Throughout this project, the use of Stack OverFlow was used to help clarify various questions and address error messages.
+A vareity of blogposts were useful sources of information throughout this, but nothing tangibly critical.
 
