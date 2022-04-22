@@ -1,4 +1,3 @@
-#Testing changes in bikeshare.py in Documenation branch
 import time
 import pandas as pd
 import numpy as np
